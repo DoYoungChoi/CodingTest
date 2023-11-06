@@ -3,6 +3,7 @@
     <pages>
         <page name='두 원 사이의 정수 쌍'/>
         <page name='해시-의상'/>
-        <page name='해시-베스트앨범'/>
+        <page name='해시-베스트앨범'/>
+        <page name='스택_큐-올바른괄호'/>
     </pages>
 </playground>
