@@ -5,6 +5,7 @@
         <page name='해시-의상'/>
         <page name='해시-베스트앨범'/>
         <page name='스택_큐-올바른괄호'/>
-        <page name='스택_큐-기능개발'/>
+        <page name='완전탐색-최소직사각형'/>
+        <page name='스택_큐-기능개발'/>
     </pages>
 </playground>
