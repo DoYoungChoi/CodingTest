@@ -15,6 +15,7 @@
         <page name='완전탐색-전력망을둘로나누기'/>
         <page name='DFS_BFS-타겟넘버'/>
         <page name='DFS_BFS-네트워크'/>
-        <page name='DFS_BFS-단어변환'/>
+        <page name='DFS_BFS-단어변환'/>
+        <page name='DFS_BFS-여행경로'/>
     </pages>
 </playground>
