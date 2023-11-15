@@ -30,6 +30,7 @@
 		D8BDC4552B04625B00D8F69C /* 가장큰수.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDC4542B04625B00D8F69C /* 가장큰수.swift */; };
 		D8BDC4582B04B26400D8F69C /* 디스크컨트롤러.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDC4572B04B26400D8F69C /* 디스크컨트롤러.swift */; };
 		D8BDC45A2B04B60000D8F69C /* 이중우선순위큐.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDC4592B04B60000D8F69C /* 이중우선순위큐.swift */; };
+		D8BDC45C2B04BEF000D8F69C /* H-Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDC45B2B04BEF000D8F69C /* H-Index.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		D8BDC4542B04625B00D8F69C /* 가장큰수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가장큰수.swift"; sourceTree = "<group>"; };
 		D8BDC4572B04B26400D8F69C /* 디스크컨트롤러.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "디스크컨트롤러.swift"; sourceTree = "<group>"; };
 		D8BDC4592B04B60000D8F69C /* 이중우선순위큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "이중우선순위큐.swift"; sourceTree = "<group>"; };
+		D8BDC45B2B04BEF000D8F69C /* H-Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "H-Index.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,6 +164,7 @@
 			children = (
 				D8BDC4522B04625400D8F69C /* K번째수.swift */,
 				D8BDC4542B04625B00D8F69C /* 가장큰수.swift */,
+				D8BDC45B2B04BEF000D8F69C /* H-Index.swift */,
 			);
 			name = "정렬";
 			path = "정렬";
@@ -250,6 +253,7 @@
 				D8BDC44B2B0461C700D8F69C /* 다리를지나는트럭.swift in Sources */,
 				D8BDC45A2B04B60000D8F69C /* 이중우선순위큐.swift in Sources */,
 				D8BDC4552B04625B00D8F69C /* 가장큰수.swift in Sources */,
+				D8BDC45C2B04BEF000D8F69C /* H-Index.swift in Sources */,
 				D8BDC4452B04617400D8F69C /* 올바른괄호.swift in Sources */,
 				D8BDC4232B045F8800D8F69C /* ContentView.swift in Sources */,
 				D8BDC4582B04B26400D8F69C /* 디스크컨트롤러.swift in Sources */,
