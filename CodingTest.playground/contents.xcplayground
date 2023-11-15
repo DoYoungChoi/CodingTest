@@ -17,6 +17,7 @@
         <page name='DFS_BFS-여행경로'/>
         <page name='스택_큐-프로세스'/>
         <page name='스택_큐-다리를지나는트럭'/>
-        <page name='정렬-K번째수'/>
+        <page name='정렬-K번째수'/>
+        <page name='정렬-가장큰수'/>
     </pages>
 </playground>
