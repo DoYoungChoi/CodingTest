@@ -31,6 +31,7 @@
 		D8BDC4582B04B26400D8F69C /* 디스크컨트롤러.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDC4572B04B26400D8F69C /* 디스크컨트롤러.swift */; };
 		D8BDC45A2B04B60000D8F69C /* 이중우선순위큐.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDC4592B04B60000D8F69C /* 이중우선순위큐.swift */; };
 		D8BDC45C2B04BEF000D8F69C /* H-Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDC45B2B04BEF000D8F69C /* H-Index.swift */; };
+		D8BDC45E2B05E6E100D8F69C /* 피로도.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDC45D2B05E6E100D8F69C /* 피로도.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		D8BDC4572B04B26400D8F69C /* 디스크컨트롤러.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "디스크컨트롤러.swift"; sourceTree = "<group>"; };
 		D8BDC4592B04B60000D8F69C /* 이중우선순위큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "이중우선순위큐.swift"; sourceTree = "<group>"; };
 		D8BDC45B2B04BEF000D8F69C /* H-Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "H-Index.swift"; sourceTree = "<group>"; };
+		D8BDC45D2B05E6E100D8F69C /* 피로도.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "피로도.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				D8BDC4332B04602B00D8F69C /* 소수찾기.swift */,
 				D8BDC4352B04604900D8F69C /* 카펫.swift */,
 				D8BDC4372B04606800D8F69C /* 전력망을둘로나누기.swift */,
+				D8BDC45D2B05E6E100D8F69C /* 피로도.swift */,
 			);
 			name = "완전탐색";
 			path = "완전탐색";
@@ -269,6 +272,7 @@
 				D8BDC44E2B0461EE00D8F69C /* 의상.swift in Sources */,
 				D8BDC4422B04614200D8F69C /* 여행경로.swift in Sources */,
 				D8BDC4502B04620600D8F69C /* 베스트앨범.swift in Sources */,
+				D8BDC45E2B05E6E100D8F69C /* 피로도.swift in Sources */,
 				D8BDC43B2B0460A400D8F69C /* 타겟넘버.swift in Sources */,
 				D8BDC4492B0461A900D8F69C /* 프로세스.swift in Sources */,
 				D8BDC4342B04602B00D8F69C /* 소수찾기.swift in Sources */,
