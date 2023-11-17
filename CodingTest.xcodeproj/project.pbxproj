@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D820C33F2B072154009433C0 /* 가장먼노드.swift in Sources */ = {isa = PBXBuildFile; fileRef = D820C33E2B072154009433C0 /* 가장먼노드.swift */; };
 		D820C3422B074C8D009433C0 /* 숫자게임.swift in Sources */ = {isa = PBXBuildFile; fileRef = D820C3412B074C8D009433C0 /* 숫자게임.swift */; };
+		D820C3442B075FE2009433C0 /* 기지국설치.swift in Sources */ = {isa = PBXBuildFile; fileRef = D820C3432B075FE2009433C0 /* 기지국설치.swift */; };
 		D8BDC4212B045F8800D8F69C /* CodingTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDC4202B045F8800D8F69C /* CodingTestApp.swift */; };
 		D8BDC4232B045F8800D8F69C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDC4222B045F8800D8F69C /* ContentView.swift */; };
 		D8BDC4252B045F8900D8F69C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8BDC4242B045F8900D8F69C /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 /* Begin PBXFileReference section */
 		D820C33E2B072154009433C0 /* 가장먼노드.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가장먼노드.swift"; sourceTree = "<group>"; };
 		D820C3412B074C8D009433C0 /* 숫자게임.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "숫자게임.swift"; sourceTree = "<group>"; };
+		D820C3432B075FE2009433C0 /* 기지국설치.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "기지국설치.swift"; sourceTree = "<group>"; };
 		D8BDC41D2B045F8800D8F69C /* CodingTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8BDC4202B045F8800D8F69C /* CodingTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodingTestApp.swift; sourceTree = "<group>"; };
 		D8BDC4222B045F8800D8F69C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -186,6 +188,7 @@
 				D8BDC4522B04625400D8F69C /* K번째수.swift */,
 				D8BDC4542B04625B00D8F69C /* 가장큰수.swift */,
 				D8BDC45B2B04BEF000D8F69C /* H-Index.swift */,
+				D820C3432B075FE2009433C0 /* 기지국설치.swift */,
 			);
 			name = "정렬";
 			path = "정렬";
@@ -297,6 +300,7 @@
 				D8BDC43B2B0460A400D8F69C /* 타겟넘버.swift in Sources */,
 				D8BDC4492B0461A900D8F69C /* 프로세스.swift in Sources */,
 				D8BDC4342B04602B00D8F69C /* 소수찾기.swift in Sources */,
+				D820C3442B075FE2009433C0 /* 기지국설치.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
