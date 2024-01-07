@@ -21,3 +21,8 @@ func solution(_ targets:[[Int]]) -> Int {
     
     return count
 }
+
+let a = "23:59"
+let formatter = DateFormatter()
+formatter.dateFormat
+
